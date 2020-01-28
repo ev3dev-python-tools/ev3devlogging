@@ -33,6 +33,8 @@ example 2: using timedlog as log
     log("my first timed log message")
 
 
+For more examples see: https://github.com/ev3dev-python-tools/thonny-ev3dev/wiki/
+
 ## Log file on EV3
 
 When a program is running on the EV3 and an error happens or any logging information is generated,
