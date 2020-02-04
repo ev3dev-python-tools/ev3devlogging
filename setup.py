@@ -10,9 +10,9 @@ setup(
       long_description="""
 easy logging library for ev3dev
 
-For more info: https://www.github.com/harcokuppens/thonny-ev3dev/wiki/ev3devlogging
+For more info: https://github.com/ev3dev-python-tools/ev3devlogging
 """,
-      url="https://www.github.com/harcokuppens/thonny-ev3dev/wiki/ev3devlogging",
+      url="https://github.com/ev3dev-python-tools/ev3devlogging",
       author="Harco Kuppens",
       author_email="h.kuppens@cs.ru.nl",
       license="MIT",
