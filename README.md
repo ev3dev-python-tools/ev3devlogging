@@ -19,8 +19,8 @@ the standard logging library to give you a very a basic usage API.
 
 example 1: using both log and timedlog 
 
-    from ev3devlogger import log
-    from ev3devlogger import timedlog
+    from ev3devlogging import log
+    from ev3devlogging import timedlog
     
     log("my first log message")
     timedlog("my first timed log message")
@@ -29,7 +29,7 @@ example 1: using both log and timedlog
 
 example 2: using timedlog as log
 
-    from ev3devlogger import timedlog as log
+    from ev3devlogging import timedlog as log
     log("my first timed log message")
 
 
