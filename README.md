@@ -51,13 +51,17 @@ press of a button to retreive the log file, and view in the IDE.
  
 ## Installing ev3devlogging library on the EV3
 
-By default the 'ev3devlogging' library is not installed on the ev3dev operating system.
+By default the `ev3devlogging` library is not installed on the ev3dev operating system.
 There are two easy ways to install this libary.
 
-Using the 'ev3dev' commandline tool:
+Using the [`ev3devcmd`](https://github.com/ev3dev-python-tools/ev3devcmd) commandline tool:
 
      ev3dev install_logging 
-     
+
+Where you can install the  'ev3dev' commandline tool by installing the [`ev3devcmd`](https://github.com/ev3dev-python-tools/ev3devcmd) python package:
+
+     pip3 install ev3devcmd
+
 Or using the Thonny IDE with the thonny-ev3dev plugin installed. From within  Thonny  
 give the following menu command:
 
